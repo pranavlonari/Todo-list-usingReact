@@ -1,9 +1,9 @@
 # React Todo List
 
 A beginner-friendly React.js Todo list project designed for learning purposes. This simple application allows users to add and remove tasks, making it an ideal starting point for those exploring React state management and basic UI interactions.
-![Todo List Preview] (https://github.com/pranavlonari/Todo-list-usingReact/blob/master/images/todo-v2.png)
 
-![Todo List Preview] (https://github.com/pranavlonari/Todo-list-usingReact/blob/master/images/todo1.png)
+![Todo List Preview](./images/todo1.png)
+![Todo List Preview](./images/todo-v2.png)
 
 ## Features:
 
