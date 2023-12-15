@@ -19,3 +19,10 @@ A beginner-friendly React.js Todo list project designed for learning purposes. T
    git clone https://github.com/yourusername/react-todo-list.git
    cd react-todo-list
    ```
+
+2. Required Dependencies:
+
+```
+   react
+   react-dom
+```
